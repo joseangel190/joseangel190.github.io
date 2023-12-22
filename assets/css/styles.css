@@ -1132,6 +1132,16 @@ body.dark-theme {
     .contact__data .section__title-2 {
         transform: translateX(0);
     }
+
+    .button__ghost {
+        margin-bottom: 15px;
+        padding: 5px;
+    }
+
+    .button__ghost iconify-icon {
+        font-size: 15px;
+    }
+
 }
 
 /* For medium devices */
