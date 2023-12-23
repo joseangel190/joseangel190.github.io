@@ -1186,10 +1186,14 @@ body.dark-theme {
 @media screen and (max-width: 576px) {
     .button__ghost {
         margin-bottom: 15px;
-        padding: 10px;
+        padding: 5px;
     }
 
     .button__ghost iconify-icon {
+        font-size: 15px;
+    }
+
+    .button i {
         font-size: 15px;
     }
 }
